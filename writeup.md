@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** [Alex Zhou]  
+**Date:** [8/19/25]
 
 ---
 
@@ -10,23 +10,22 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+[Git is a "version control system" which is useful for tracking changes to code as well as collaborating and sharing. Github provides you with all the same accesibilties as git but online]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[Commiting and pushing is a method of making changes to a remote repository. This allows for people to see your latest changes.]
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
-
+[A repository is a folder for all the files and changes made in your projects.]
 ---
 
 ## Profile Repository Link
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[https://github.com/AlexZ-0]
 
 ---
 
@@ -34,7 +33,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+[How ]
 
 ---
 
