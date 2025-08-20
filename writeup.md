@@ -33,7 +33,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[How ]
+[How Ai learning works. I am very interested in know how an AI gathers the information it is fed and uses it to create AI generated responses/images]
 
 ---
 
