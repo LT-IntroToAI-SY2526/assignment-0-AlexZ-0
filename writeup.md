@@ -25,7 +25,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[https://github.com/AlexZ-0]
+[(https://github.com/AlexZ-0)]
 
 ---
 
